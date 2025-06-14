@@ -4,7 +4,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
-  background-color: linear-gradient(to bottom, #e3f2fd, #ffffff);
+  background: linear-gradient(to bottom, #e3f2fd, #ffffff);
   color: #2b2b2b;
 }
 
@@ -52,7 +52,11 @@ img {
 /* Asegura que el fondo llegue al 100% del alto */
 html, body {
   height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #e3f2fd, #ffffff);
 }
+
 
 /* Hacer que el contenido se vea más ancho */
 .bd-main .bd-content .bd-article-container {
