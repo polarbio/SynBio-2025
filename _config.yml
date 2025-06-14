@@ -1,6 +1,6 @@
 title: "Workshop SynBio 2025"
 author: "Organizado por Christian Cuba y Jennyfer Arismendiz"
-logo: images/logo.png        # si tienes un logo, colócalo en una carpeta llamada 'images'
+logo: images/LOGO.svg        # si tienes un logo, colócalo en una carpeta llamada 'images'
 repository:
   url: https://github.com/polarbbio/SynBio-2025
   path_to_book: .
