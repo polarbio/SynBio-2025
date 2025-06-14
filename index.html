@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Workshop SynBio 2025</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to bottom right, #e3f2fd, #ffffff);
+      margin: 0;
+      padding: 2em;
+      text-align: center;
+    }
+    h1 {
+      color: #2e7d32;
+    }
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2em;
+      margin-top: 2em;
+    }
+    .card {
+      width: 240px;
+      height: 180px;
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      padding: 1em;
+      text-align: center;
+      transition: transform 0.2s ease;
+      border: 2px solid #4CAF50;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .card h3 {
+      color: #4CAF50;
+    }
+    .card p {
+      color: #555;
+    }
+    footer {
+      margin-top: 4em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Workshop SynBio 2025 🧬</h1>
+  <p>Bienvenido a los módulos de lectura previa del curso. Haz clic en uno para comenzar:</p>
+
+  <div class="grid">
+    <a href="content/01_introduccion_sbi.html" class="card">
+      <h3>🔬 Introducción</h3>
+      <p>Fundamentos de SynBio</p>
+    </a>
+
+    <a href="content/02_dna_circuits.html" class="card">
+      <h3>🧬 Circuitos de ADN</h3>
+      <p>Lógica molecular</p>
+    </a>
+
+    <a href="content/03_toggle_switch.html" class="card">
+      <h3>🔁 Toggle Switch</h3>
+      <p>Biestabilidad genética</p>
+    </a>
+
+    <a href="content/04_neural_networks.html" class="card">
+      <h3>🧠 Redes Neuronales</h3>
+      <p>Modelos bioinspirados</p>
+    </a>
+  </div>
+
+  <footer>
+    <p>Organizado por RELU · Julio 2025</p>
+  </footer>
+
+</body>
+</html>
