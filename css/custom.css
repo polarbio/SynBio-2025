@@ -1,0 +1,49 @@
+/* --- Fuentes y colores modernos --- */
+:root {
+  --pst-color-primary: #3CAEA3; /* turquesa */
+  --pst-color-secondary: #173F5F; /* azul profundo */
+  --pst-color-link: #ED553B; /* rojo coral */
+  --pst-font-family-base: "Segoe UI", Roboto, sans-serif;
+}
+
+/* --- Encabezados más elegantes --- */
+h1, h2, h3 {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  font-weight: 600;
+}
+
+/* --- Fondo suave para el cuerpo --- */
+body {
+  background-color: #f8fbfc;
+}
+
+/* --- Personalizar navbar --- */
+.bd-header {
+  background-color: #3CAEA3 !important;
+  color: white;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: white !important;
+}
+
+/* --- Footer personalizado --- */
+.bd-footer {
+  background-color: #173F5F;
+  color: white;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+/* --- Bloques de código --- */
+div.cell.code_cell {
+  border-left: 4px solid #3CAEA3;
+  background-color: #f6f9fa;
+}
+
+/* --- Títulos con emojis (si los usas) --- */
+h1::before {
+  content: "🧬 ";
+}

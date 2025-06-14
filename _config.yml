@@ -8,3 +8,5 @@ html:
   navbar_number_sections: true
   use_repository_button: true
   extra_footer: "© 2025 Workshop SynBio · RELU🌱"
+  extra_css:
+    - css/custom.css
