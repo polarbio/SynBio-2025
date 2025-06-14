@@ -10,3 +10,4 @@ html:
   extra_footer: "© 2025 Workshop SynBio · RELU🌱"
   extra_css:
     - css/custom.css
+  favicon: images/favicon.svg
