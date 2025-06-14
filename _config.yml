@@ -1,13 +1,31 @@
 title: "Workshop SynBio 2025"
 author: "Organizado por Christian Cuba y el equipo de RELU"
-logo: images/LOGO.svg        # si tienes un logo, colócalo en una carpeta llamada 'images'
+logo: images/LOGO.svg
+copyright: "2025"
+
 repository:
-  url: https://github.com/polarbbio/SynBio-2025
+  url: https://github.com/polarbio/SynBio-2025
   path_to_book: .
+  branch: main
+
 html:
   navbar_number_sections: true
   use_repository_button: true
-  extra_footer: "© 2025 Workshop SynBio · RELU🌱"
+  use_edit_page_button: true
+  use_download_button: true
+  extra_footer: |
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; margin-top: 40px;">
+      <p style="margin: 0;"><strong>© 2025 Workshop SynBio · RELU🌱</strong></p>
+      <p style="margin: 5px 0 0 0; font-size: 0.9rem; opacity: 0.9;">Impulsando la biotecnología en Latinoamérica</p>
+    </div>
   extra_css:
     - css/custom.css
   favicon: images/favicon.svg
+  google_analytics_id: # Opcional: tu ID de Google Analytics
+
+# Configuración del tema
+sphinx:
+  config:
+    html_theme_options:
+      primary_sidebar_end: ["indices.html", "search-field.html"]
+      secondary_sidebar_items: ["page-toc.html", "edit-this-page.html"]
