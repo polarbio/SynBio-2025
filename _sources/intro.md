@@ -12,3 +12,13 @@ Este sitio contiene los **lecture notes** oficiales del Workshop SynBio 2025, un
 
 🌏 **Para**: Universitarios de LATAM  
 📆 **Fechas**: Julio 2025
+
+
+<div style="margin-top: 2em;">
+  <a class="btn btn-primary" href="index.html">
+    🚀 Comenzar Workshop
+  </a>
+  <a class="btn btn-outline-secondary" href="https://github.com/SynbioWorkshopLatam/SynBio_Workshop" target="_blank">
+    📘 Clases
+  </a>
+</div>
