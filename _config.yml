@@ -1,5 +1,5 @@
 title: "Workshop SynBio 2025"
-author: "Organizado por Christian Cuba y Jennyfer Arismendiz"
+author: "Organizado por Christian Cuba y el equipo de RELU"
 logo: images/LOGO.svg        # si tienes un logo, colócalo en una carpeta llamada 'images'
 repository:
   url: https://github.com/polarbbio/SynBio-2025
@@ -7,4 +7,4 @@ repository:
 html:
   navbar_number_sections: true
   use_repository_button: true
-  extra_footer: "© 2025 Workshop SynBio · SynBioWorld 🌱"
+  extra_footer: "© 2025 Workshop SynBio · RELU🌱"

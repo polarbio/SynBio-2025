@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Book
+# Bienvenidos al Workshop SynBio 2025 🧬
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Este sitio contiene los **lecture notes** oficiales del Workshop SynBio 2025, un curso intensivo de biología sintética organizado por RELU.
 
-Check out the content pages bundled with this sample book to see more.
+📚 Las clases están divididas por módulos, cada uno con lecturas y notebooks interactivos que los estudiantes deberán revisar **antes de cada sesión**.
 
-```{tableofcontents}
-```
+---
+
+🧠 **Objetivo**: Proporcionar los fundamentos teóricos y prácticos de biología sintética para estudiantes con background en biología, medicina, ingeniería o afines.
+
+👩🏽‍🔬 **Organizado por**: Christian Cuba, Jennyfer Arismendiz, Frank Britto, Mijael Espinoza, Rogrigo Aguilar, Cesar Castro
+
+🌏 **Para**: Universitarios de todo LATAM  
+📆 **Fechas**: Julio 2025
