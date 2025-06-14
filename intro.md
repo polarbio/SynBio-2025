@@ -10,5 +10,5 @@ Este sitio contiene los **lecture notes** oficiales del Workshop SynBio 2025, un
 
 👩🏽‍🔬 **Organizado por**: Christian Cuba, Jennyfer Arismendiz, Frank Britto, Mijael Espinoza, Rogrigo Aguilar, Cesar Castro
 
-🌏 **Para**: Universitarios de todo LATAM  
+🌏 **Para**: Universitarios de LATAM  
 📆 **Fechas**: Julio 2025
